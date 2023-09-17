@@ -1,0 +1,117 @@
+---
+object: card
+id: 2f66945b-3e64-498a-9478-5f96a61d4ec7
+oracle_id: 7e26f0b7-20e6-46d5-8130-d98c14d6aa29
+multiverse_ids:
+- 373571
+mtgo_id: 50272
+mtgo_foil_id: 50273
+tcgplayer_id: 71172
+cardmarket_id: 264109
+name: Temple of Mystery
+lang: en
+released_at: '2013-09-27'
+uri: https://api.scryfall.com/cards/2f66945b-3e64-498a-9478-5f96a61d4ec7
+scryfall_uri: https://scryfall.com/card/ths/226/temple-of-mystery?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/f/2f66945b-3e64-498a-9478-5f96a61d4ec7.jpg?1562816308
+  normal: https://cards.scryfall.io/normal/front/2/f/2f66945b-3e64-498a-9478-5f96a61d4ec7.jpg?1562816308
+  large: https://cards.scryfall.io/large/front/2/f/2f66945b-3e64-498a-9478-5f96a61d4ec7.jpg?1562816308
+  png: https://cards.scryfall.io/png/front/2/f/2f66945b-3e64-498a-9478-5f96a61d4ec7.png?1562816308
+  art_crop: https://cards.scryfall.io/art_crop/front/2/f/2f66945b-3e64-498a-9478-5f96a61d4ec7.jpg?1562816308
+  border_crop: https://cards.scryfall.io/border_crop/front/2/f/2f66945b-3e64-498a-9478-5f96a61d4ec7.jpg?1562816308
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  Temple of Mystery enters the battlefield tapped.
+  When Temple of Mystery enters the battlefield, scry 1.
+  {T}: Add {G} or {U}.
+colors: []
+color_identity:
+- G
+- U
+keywords:
+- Scry
+produced_mana:
+- G
+- U
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 69093d6f-e25a-41a4-8cf5-688d7f11c0fb
+set: ths
+set_name: Theros
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/69093d6f-e25a-41a4-8cf5-688d7f11c0fb
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aths&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ths?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/2f66945b-3e64-498a-9478-5f96a61d4ec7/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7e26f0b7-20e6-46d5-8130-d98c14d6aa29&unique=prints
+collector_number: '226'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Noah Bradley
+artist_ids:
+- 81995d11-da98-4f8b-89bd-b88ca2ddb06b
+illustration_id: db2898ed-2b51-4334-956c-4dc946923d64
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 313
+penny_rank: 235
+prices:
+  usd: '0.51'
+  usd_foil: '1.78'
+  usd_etched: 
+  eur: '0.38'
+  eur_foil: '2.49'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373571
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Temple+of+Mystery&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Temple+of+Mystery&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Temple+of+Mystery
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/71172?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Temple+of+Mystery&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/50272?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

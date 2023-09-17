@@ -1,0 +1,21 @@
+---
+object: set
+id: 69093d6f-e25a-41a4-8cf5-688d7f11c0fb
+code: ths
+mtgo_code: ths
+arena_code: ths
+tcgplayer_id: 1144
+name: Theros
+uri: https://api.scryfall.com/sets/69093d6f-e25a-41a4-8cf5-688d7f11c0fb
+scryfall_uri: https://scryfall.com/sets/ths
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aths&unique=prints
+released_at: '2013-09-27'
+set_type: expansion
+card_count: 249
+printed_size: 249
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: ths
+block: Theros
+icon_svg_uri: https://svgs.scryfall.io/sets/ths.svg?1694404800

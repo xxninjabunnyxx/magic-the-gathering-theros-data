@@ -1,0 +1,116 @@
+---
+object: card
+id: 6bb68644-e99d-4ecb-a804-8d4ad1c3325d
+oracle_id: 4cf10cb6-b082-4c0d-89e9-43cd39716201
+multiverse_ids:
+- 373664
+mtgo_id: 50532
+mtgo_foil_id: 50533
+tcgplayer_id: 71035
+cardmarket_id: 264060
+name: Daxos of Meletis
+lang: en
+released_at: '2013-09-27'
+uri: https://api.scryfall.com/cards/6bb68644-e99d-4ecb-a804-8d4ad1c3325d
+scryfall_uri: https://scryfall.com/card/ths/191/daxos-of-meletis?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/b/6bb68644-e99d-4ecb-a804-8d4ad1c3325d.jpg?1562819497
+  normal: https://cards.scryfall.io/normal/front/6/b/6bb68644-e99d-4ecb-a804-8d4ad1c3325d.jpg?1562819497
+  large: https://cards.scryfall.io/large/front/6/b/6bb68644-e99d-4ecb-a804-8d4ad1c3325d.jpg?1562819497
+  png: https://cards.scryfall.io/png/front/6/b/6bb68644-e99d-4ecb-a804-8d4ad1c3325d.png?1562819497
+  art_crop: https://cards.scryfall.io/art_crop/front/6/b/6bb68644-e99d-4ecb-a804-8d4ad1c3325d.jpg?1562819497
+  border_crop: https://cards.scryfall.io/border_crop/front/6/b/6bb68644-e99d-4ecb-a804-8d4ad1c3325d.jpg?1562819497
+mana_cost: "{1}{W}{U}"
+cmc: 3.0
+type_line: Legendary Creature — Human Soldier
+oracle_text: |-
+  Daxos of Meletis can't be blocked by creatures with power 3 or greater.
+  Whenever Daxos of Meletis deals combat damage to a player, exile the top card of that player's library. You gain life equal to that card's mana value. Until end of turn, you may cast that card and you may spend mana as though it were mana of any color to cast that spell.
+power: '2'
+toughness: '2'
+colors:
+- U
+- W
+color_identity:
+- U
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 69093d6f-e25a-41a4-8cf5-688d7f11c0fb
+set: ths
+set_name: Theros
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/69093d6f-e25a-41a4-8cf5-688d7f11c0fb
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aths&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ths?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/6bb68644-e99d-4ecb-a804-8d4ad1c3325d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4cf10cb6-b082-4c0d-89e9-43cd39716201&unique=prints
+collector_number: '191'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Karla Ortiz
+artist_ids:
+- 286a7773-06e5-465c-8a2a-76dfcb4ad110
+illustration_id: 6245d81c-1cf5-4a28-bb48-08fb3dfc48c2
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 5578
+penny_rank: 7439
+prices:
+  usd: '0.22'
+  usd_foil: '0.87'
+  usd_etched: 
+  eur: '0.19'
+  eur_foil: '0.90'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373664
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Daxos+of+Meletis&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Daxos+of+Meletis&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Daxos+of+Meletis
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/71035?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Daxos+of+Meletis&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/50532?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

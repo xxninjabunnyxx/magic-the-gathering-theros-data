@@ -1,0 +1,118 @@
+---
+object: card
+id: 415a5946-6f9a-433f-9f1c-b99144daa170
+oracle_id: f2933616-211b-4d3f-8064-2be61c26079a
+multiverse_ids:
+- 373658
+mtgo_id: 50568
+mtgo_foil_id: 50569
+tcgplayer_id: 71325
+cardmarket_id: 264214
+name: Mnemonic Wall
+lang: en
+released_at: '2013-09-27'
+uri: https://api.scryfall.com/cards/415a5946-6f9a-433f-9f1c-b99144daa170
+scryfall_uri: https://scryfall.com/card/ths/55/mnemonic-wall?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/1/415a5946-6f9a-433f-9f1c-b99144daa170.jpg?1562817223
+  normal: https://cards.scryfall.io/normal/front/4/1/415a5946-6f9a-433f-9f1c-b99144daa170.jpg?1562817223
+  large: https://cards.scryfall.io/large/front/4/1/415a5946-6f9a-433f-9f1c-b99144daa170.jpg?1562817223
+  png: https://cards.scryfall.io/png/front/4/1/415a5946-6f9a-433f-9f1c-b99144daa170.png?1562817223
+  art_crop: https://cards.scryfall.io/art_crop/front/4/1/415a5946-6f9a-433f-9f1c-b99144daa170.jpg?1562817223
+  border_crop: https://cards.scryfall.io/border_crop/front/4/1/415a5946-6f9a-433f-9f1c-b99144daa170.jpg?1562817223
+mana_cost: "{4}{U}"
+cmc: 5.0
+type_line: Creature — Wall
+oracle_text: |-
+  Defender
+  When Mnemonic Wall enters the battlefield, you may return target instant or sorcery card from your graveyard to your hand.
+power: '0'
+toughness: '4'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Defender
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 69093d6f-e25a-41a4-8cf5-688d7f11c0fb
+set: ths
+set_name: Theros
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/69093d6f-e25a-41a4-8cf5-688d7f11c0fb
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aths&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ths?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/415a5946-6f9a-433f-9f1c-b99144daa170/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af2933616-211b-4d3f-8064-2be61c26079a&unique=prints
+collector_number: '55'
+digital: false
+rarity: common
+flavor_text: |-
+  "It augments anamnesis. What is so confusing about that?"
+  —Perisophia the philosopher
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Trevor Claxton
+artist_ids:
+- 35d39e75-5d6c-4318-9136-38cdfff34a05
+illustration_id: ceaed550-6870-40aa-b679-b03996b8a348
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 3276
+penny_rank: 2422
+prices:
+  usd: '0.10'
+  usd_foil: '0.84'
+  usd_etched: 
+  eur: '0.19'
+  eur_foil: '0.99'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373658
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Mnemonic+Wall&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Mnemonic+Wall&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Mnemonic+Wall
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/71325?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mnemonic+Wall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/50568?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

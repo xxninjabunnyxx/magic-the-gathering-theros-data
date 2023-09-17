@@ -1,0 +1,117 @@
+---
+object: card
+id: 695ccac5-c87e-49af-9131-8f1730e84bc0
+oracle_id: e15db59f-4477-4139-8e7e-741ab4584e7f
+multiverse_ids:
+- 373590
+mtgo_id: 50246
+mtgo_foil_id: 50247
+tcgplayer_id: 71395
+cardmarket_id: 264279
+name: Akroan Hoplite
+lang: en
+released_at: '2013-09-27'
+uri: https://api.scryfall.com/cards/695ccac5-c87e-49af-9131-8f1730e84bc0
+scryfall_uri: https://scryfall.com/card/ths/185/akroan-hoplite?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/9/695ccac5-c87e-49af-9131-8f1730e84bc0.jpg?1562819376
+  normal: https://cards.scryfall.io/normal/front/6/9/695ccac5-c87e-49af-9131-8f1730e84bc0.jpg?1562819376
+  large: https://cards.scryfall.io/large/front/6/9/695ccac5-c87e-49af-9131-8f1730e84bc0.jpg?1562819376
+  png: https://cards.scryfall.io/png/front/6/9/695ccac5-c87e-49af-9131-8f1730e84bc0.png?1562819376
+  art_crop: https://cards.scryfall.io/art_crop/front/6/9/695ccac5-c87e-49af-9131-8f1730e84bc0.jpg?1562819376
+  border_crop: https://cards.scryfall.io/border_crop/front/6/9/695ccac5-c87e-49af-9131-8f1730e84bc0.jpg?1562819376
+mana_cost: "{R}{W}"
+cmc: 2.0
+type_line: Creature — Human Soldier
+oracle_text: Whenever Akroan Hoplite attacks, it gets +X/+0 until end of turn, where
+  X is the number of attacking creatures you control.
+power: '1'
+toughness: '2'
+colors:
+- R
+- W
+color_identity:
+- R
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 69093d6f-e25a-41a4-8cf5-688d7f11c0fb
+set: ths
+set_name: Theros
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/69093d6f-e25a-41a4-8cf5-688d7f11c0fb
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aths&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ths?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/695ccac5-c87e-49af-9131-8f1730e84bc0/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae15db59f-4477-4139-8e7e-741ab4584e7f&unique=prints
+collector_number: '185'
+digital: false
+rarity: uncommon
+flavor_text: '"Fair fight? How could it be a fair fight? We''re Akroans. They''re
+  not."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Igor Kieryluk
+artist_ids:
+- 9c3e9d17-509f-485c-9360-46d897ce716b
+illustration_id: 283be5f3-ab91-4e42-9544-e9a843e66e35
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 10592
+penny_rank: 9671
+prices:
+  usd: '0.06'
+  usd_foil: '0.29'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.19'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373590
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Akroan+Hoplite&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Akroan+Hoplite&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Akroan+Hoplite
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/71395?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Akroan+Hoplite&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/50246?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
